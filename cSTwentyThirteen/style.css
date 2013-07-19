@@ -53,11 +53,11 @@ http://blog.typekit.com/2011/11/09/type-study-sizing-the-legible-letter/
 
 @font-face {
     font-family: 'futura_md_btmedium';
-    src: url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/tt0142m_-webfont.eot');
-    src: url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/tt0142m_-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/tt0142m_-webfont.woff') format('woff'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/tt0142m_-webfont.ttf') format('truetype'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/tt0142m_-webfont.svg#futura_md_btmedium') format('svg');
+    src: url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/tt0142m_-webfont.eot');
+    src: url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/tt0142m_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/tt0142m_-webfont.woff') format('woff'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/tt0142m_-webfont.ttf') format('truetype'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/tt0142m_-webfont.svg#futura_md_btmedium') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -67,11 +67,11 @@ http://blog.typekit.com/2011/11/09/type-study-sizing-the-legible-letter/
 
 @font-face {
     font-family: 'urwpalladiolregular';
-    src: url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-roma-webfont.eot');
-    src: url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-roma-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-roma-webfont.woff') format('woff'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-roma-webfont.ttf') format('truetype'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-roma-webfont.svg#urwpalladiolregular') format('svg');
+    src: url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-roma-webfont.eot');
+    src: url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-roma-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-roma-webfont.woff') format('woff'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-roma-webfont.ttf') format('truetype'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-roma-webfont.svg#urwpalladiolregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -81,11 +81,11 @@ http://blog.typekit.com/2011/11/09/type-study-sizing-the-legible-letter/
 
 @font-face {
     font-family: 'urwpalladiolitalic';
-    src: url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-ital-webfont.eot');
-    src: url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-ital-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-ital-webfont.woff') format('woff'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-ital-webfont.ttf') format('truetype'),
-         url('http://blog.chschmid.com/wp-content/themes/cStwentytwelve/fonts/urwpalladiol-ital-webfont.svg#urwpalladiolitalic') format('svg');
+    src: url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-ital-webfont.eot');
+    src: url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-ital-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-ital-webfont.woff') format('woff'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-ital-webfont.ttf') format('truetype'),
+         url('http://blog.chschmid.com/wp-content/themes/cSTwentyThirteen/fonts/urwpalladiol-ital-webfont.svg#urwpalladiolitalic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
