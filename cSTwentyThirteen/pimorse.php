@@ -6,7 +6,7 @@ get_header(); ?>
 <div class="entry-content-page">
 <div id="container">
 	<div id="content" role="main" class="cSarchive">
-		<h1><?php the_title();?></h1>
+		<h1 style="text-align: center; font-size:24pt; font-size:1.5rem; margin-top:0px;"><?php the_title();?></h1>
                 <?php
                         require_once('recaptcha-php/recaptchalib.php');
                         require_once('pimorse-config.php');
