@@ -2,7 +2,8 @@
 /*
 Template Name: pimorse
 */
-get_header(); ?>
+get_header(); 
+the_post();?>
 <div class="entry-content-page">
 <div id="container">
 	<div id="content" role="main" class="cSarchive">
@@ -29,7 +30,7 @@ get_header(); ?>
                         }
                 ?>
                 <?php the_content();?>
-               	<form action="index.php?page_id=1155" method="post">
+               	<form action="index.php?page_id=1851" method="post">
 			<input type="text" name="msg" size="80" maxlength="160" style="margin: 16px; margin: 1rem;"></br>
                         <script type="text/javascript">  
                         var RecaptchaOptions = {  
@@ -50,7 +51,7 @@ get_header(); ?>
                         } else {
                                echo "<h2>Latest 15 Messages</h2>";
                                echo file_get_contents($myURL . 'log.php?limit=15');
-                               echo "<a href=\"index.php?page_id=1155&nolimit=true\"> Click here to see the complete log file</a>";
+                               echo "<a href=\"index.php?page_id=1851&nolimit=true\"> Click here to see the complete log file</a>";
                         }
                 ?>
 
