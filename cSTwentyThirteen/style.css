@@ -439,7 +439,7 @@ img.header-image,
 img.wp-post-image {
 	/* Add fancy borders to all WordPress-added images but not things like badges and icons and the like */
 	border-radius: 3px;
-	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	/* box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);*/
 }
 .wp-caption {
 	max-width: 100%; /* Keep wide captions from overflowing their container. */
@@ -1368,7 +1368,7 @@ article.format-quote .entry-content-page blockquote {
 
 .entry-content-page .recaptchatable {
         width: auto;
-        margin-left:auto; 
+        margin-left:auto;
         margin-right:auto;
 }
 
@@ -1802,12 +1802,12 @@ img#wpstats {
     footer.entry-meta {
 	    position: static;
 	}
-	
+
 	.entry-content {
         margin: 0px 0px 0px 0px;
 	    margin: 0 0 0 0;
     }
-	
+
 	.entry-meta {
 	    position: relative;
 		float: left;
